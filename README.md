@@ -1,6 +1,6 @@
 # A little something about me
 
-I love to read. I want to be able to ***CREATE*** fun projects!
+Learning and building ***every day***, all for the ***love*** of the game
 
 **My favorite not so accurate quote:**
 
