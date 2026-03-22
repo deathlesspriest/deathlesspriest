@@ -1,9 +1,14 @@
-## Hi there 👋
+# A little something about me
 
-<!--
-**deathlesspriest/deathlesspriest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love to read. I want to be able to ***CREATE*** fun projects!
 
-Here are some ideas to get you started:
+**My favorite not so accurate quote:**
+
+ *"If you could see the cabbages I have planted myself, one could never be tempted by the prospect of power ever again" -  Diocletian*
+
+### 🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶
+
+<!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +18,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--!>
+
+. . . . . leaving the world a better place than I found it 
